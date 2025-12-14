@@ -8,6 +8,7 @@ markdown_extensions:
   - attr_list
   - def_list
   - footnotes
+  - md_in_html  # Add this line
   - pymdownx.tasklist:
       custom_checkbox: true
       clickable_checkbox: true
@@ -34,7 +35,7 @@ theme:
 
     logo: ""
   palette: 
-    scheme: ayu
+    scheme: slate
     primary: black
     accent: light blue
   font:
@@ -45,7 +46,7 @@ theme:
   features:
   #  - navigation.tabs
   #  - navigation.tabs.sticky
-     - navigation.instant
+  #  - navigation.instant
   #  - navigation.top
   #  - navigation.expand
 
@@ -62,47 +63,3 @@ extra:
   generator: false
 
 plugins: []
-
-nav:
-
-- BOOKMARK: index.md
-
-- HOUDINI:
-  - Main: houdini/houdini.md
-  - Install/Tweaks: houdini/houdini-install.md
-  - KineFX: houdini/kinefx.md
-  - VAT: houdini/vat.md
-  - Vex: houdini/vex.md
-
-- UNREAL:
-  - Issues: unreal/issues.md
-  - Main: unreal/unreal.md
-  - Install/Tweaks: unreal/ueinstall.md
-  - Datamine: unreal/datamine.md
-  - Tips: unreal/config.md
-
-- BLENDER:
-  - Main: blender/blender.md
-  - Plugins: blender/plugin.md
-
-- SOFTWARE:
-  - Programs: software/programs.md
-  - Discord: software/discord.md
-  - Steam: software/steam.md
-  - Browser: software/internet_browser.md
-  - Tweaks: software/tweaks.md
-  - HyperV: software/hyperv.md
-  - Server2022: software/srv22-install.md
-
-- ANIMATION:
-  - Animation: animation/animation.md
-
-- LINUX:
-  - Linux: linux/linux.md
-  - Arch Install: linux/arch-install.md
-  - Ubuntu Server Install: linux/ubuntu-server-install.md
-  - Tun2Socks: linux/tun2socks.md
-  - Git/Github: linux/git.md
-  - NeoVim: linux/neovim.md
-  
-- Quicksave: quicksave.md
