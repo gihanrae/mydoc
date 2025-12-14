@@ -1,0 +1,36 @@
+/* Hide left sidebar */
+.md-sidebar--primary {
+    display: none;
+}
+
+.md-content {
+    margin-left: 0;
+}
+
+/* Hide top header bar */
+.md-header {
+    display: none;
+}
+
+/* Hide "Home" breadcrumb/title at top of page */
+.md-content__inner::before {
+    display: none;
+}
+
+.md-typeset h1:first-of-type {
+    display: none;
+}
+
+/* Optional: Adjust content padding since header is hidden */
+.md-main__inner {
+    margin-top: 0;
+}
+
+.md-content {
+    padding-top: 1rem;
+}
+
+iframe {
+    max-width: 100%;
+    border: none;
+}
