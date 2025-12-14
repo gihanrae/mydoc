@@ -6,6 +6,10 @@ hide:
 ---
 
 #### Hi, Im a unreal engine generalist who intereseted in creating fun stuff and i started as a blender 3d hardsurface artists then done houdini kinefx rigging, maya rigging then created player controller, locomotion systems, chaos vehicles, game mechanics also little bit of replication in unreal engine,I also worked with a team around 5 people and used diversion version control with unreal for the past 3 years.
+
+contact: gihankrox@gmail.com
+discord: @gihanx
+
 ---
 # SriVerse
 
