@@ -5,71 +5,69 @@ hide:
  - title
 ---
 
-Hi, Im a unreal engine generalist who inreseted in creating fun stuff
+#### Hi, Im a unreal engine generalist who intereseted in creating fun stuff and i started as a blender 3d hardsurface artists then done houdini kinefx rigging, maya rigging then created player controller, locomotion systems, chaos vehicles, game mechanics also little bit of replication in unreal engine,I also worked with a team around 5 people and used diversion version control with unreal for the past 3 years.
+---
+# SriVerse
 
-I started as a 3d hardsurface artists then done rigging, animating then creating locomotion systems, game mechanics also little bit of replication
-i also worked with a team around 5 people and used diversion version control with unreal for the past 3 years.
+An unreleased game iv worked on, primarily worked on player controller, vehicle system, weapon system, locomotion system, level sequencer cutscenes and some replication
 
-Im not a specialist but more like a unreal engine generalist, i dont have much programming background but i like to make things that i enjoy playing with things i know while learning and collaborating with others
-
-Experience: Blender 3d modeling
-            Unreal Engine Level Sequencer, Replication, Animation Systems, Game Mechanics, Chaos vehicles
-            Maya Rigging
-            Houdini kinefx rigging framework and Vertex Animations
-            Benchmarking and Optimizations
-            Linux
-
-
-I enjoy playing ps2 ps3 era games
-
-
-## Projects
-1. SriVerse, An unreleased game iv worked on, primarily worked on player controller, vehicle system, weapon system, locomotion system and some replication
-
-![bicycle](./assets/bicycle.gif)
-![boat](./assets/boat.gif)
-![buggy](./assets/buggy.gif)
-![fences](./assets/fenses.gif)
+#### Game Mechanics
 ![firestick](./assets/firestick.gif)
 ![glider](./assets/glider.gif)
-![tracktor](./assets/landmaster idea.gif)
-![tracktor](./assets/landmasterearly.gif)
-![tracktor](./assets/tracktor.gif)
-![tracktor](./assets/Trailer.gif)
 ![shooting](./assets/shooting.gif)
 ![shooting](./assets/slingshot.gif)
 ![snowboard](./assets/snowboard.gif)
 ![surfboard](./assets/surfboard.gif)
+![fences](./assets/fenses.gif)
 
-Videos: https://youtu.be/XxXF3i68wTM
+#### Chaos Vehicles
+![bicycle](./assets/bicycle.gif)
+![boat](./assets/boat.gif)
+![buggy](./assets/buggy.gif)
+![tracktor](./assets/landmaster idea.gif)
+![tracktor](./assets/landmasterearly.gif)
+![tracktor](./assets/tracktor.gif)
+![tracktor](./assets/Trailer.gif)
 
-OnlyUp GameMode: https://www.youtube.com/watch?v=529W1bEwhy4 
+#### Finalized Game mechanics
+[![](./assets/test3.png)](https://www.youtube.com/watch?v=XxXF3i68wTM)
 
-Videos of playtest held by me: https://www.youtube.com/watch?v=d3FFxQN8E0M
+#### OnlyUp Game Mode
+[![](./assets/onlyup.png)](https://www.youtube.com/watch?v=529W1bEwhy4)
 
-Some gameplay prototype i did in nov 2024: https://www.youtube.com/watch?v=Jo4qS6wssPo
+#### Multiplayer playtest held by me 
+[![](./assets/test2.png)](https://www.youtube.com/watch?v=d3FFxQN8E0M)
 
-Things i did in the past few months
-https://www.youtube.com/watch?v=6cm8bgZK7u8 
+#### Winter theme
+[![](./assets/test.png)](https://www.youtube.com/watch?v=Jo4qS6wssPo)
 
+#### GTA Style Implementation
+[![](./assets/wheel.png)](https://www.youtube.com/watch?v=6cm8bgZK7u8)
 
+---
+# Ashaa Meda Music Video
 
-2. Ashaa Music Video, Me and another 2 guys worked on this, i mainly worked on sequencer for animating characters, facials, camera and vehicle then rendering part, assets are from marketplace
+Me and another 2 guys worked on this, i mainly worked on sequencer for animating characters, facials, camera and vehicle then rendering part, assets are from marketplace
 
-https://www.youtube.com/watch?v=kqkA-LYiVuQ
+[![](./assets/ashaa.png)](https://www.youtube.com/watch?v=kqkA-LYiVuQ)
 
+---
+# ETX Commercial 2024
 
-3. ETX Commercial 2024 | Me and another 2 guys worked on this, i did the sequencer part animating vehicles can camera also rendering, level is citysample and featured vehicle is modeled  by my friend
+Me and another 2 guys worked on this, i did the sequencer part animating vehicles can camera also rendering, level is citysample and featured vehicle is modeled  by my friend
 
-https://www.youtube.com/watch?v=FMTMPW6vVks
+[![](./assets/etx.png)](https://www.youtube.com/watch?v=FMTMPW6vVks)
 
-4. Hardsurface Asset,
+---
+# Weapon Models
 
-3D Models i did few years ago: https://www.artstation.com/gihanrae
+These are 3d models i did few years ago 
 
+[![](./assets/guns.png)](https://www.artstation.com/gihanrae)
 
-<div markdown="span">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=FMTMPW6vVks" frameborder="0" allowfullscreen></iframe>
-</div>
+---
+# Character Workflow
 
-test
+Workflows i have implemented with character artist
+
+![](./assets/CharacterPipeline.png)
